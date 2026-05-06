@@ -2,4 +2,8 @@
     --certo-blue: #4335DE;
     --certo-dark: #02033b;
     --certo-yellow: #FFC043;
+}body {
+    overflow-x: hidden;
+    margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
