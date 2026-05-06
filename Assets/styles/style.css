@@ -28,3 +28,5 @@
 .btn-certo-yellow:hover { background-color: #e5ac39 !important; transform: translateY(-2px); }.btn-certo-outline:hover { background-color: var(--certo-dark); color: white; }
 @keyframes float { 0% { transform: translate(-40%, -50%); } 50% { transform: translate(-40%, -55%); } 100% { transform: translate(-40%, -50%); } }
 .mobile-container { animation: float 4s ease-in-out infinite; }
+.custom-footer a { color: white; text-decoration: none; opacity: 0.8; }
+.custom-footer a:hover { opacity: 1; text-decoration: underline; }
