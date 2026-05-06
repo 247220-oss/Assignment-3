@@ -26,3 +26,5 @@
 .navbar { box-shadow: 0 2px 15px rgba(0,0,0,0.05); }
 .btn { transition: all 0.3s ease-in-out; }
 .btn-certo-yellow:hover { background-color: #e5ac39 !important; transform: translateY(-2px); }.btn-certo-outline:hover { background-color: var(--certo-dark); color: white; }
+@keyframes float { 0% { transform: translate(-40%, -50%); } 50% { transform: translate(-40%, -55%); } 100% { transform: translate(-40%, -50%); } }
+.mobile-container { animation: float 4s ease-in-out infinite; }
