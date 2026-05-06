@@ -25,3 +25,4 @@
 .custom-footer { background-color: var(--certo-dark); padding: 60px 0; }
 .navbar { box-shadow: 0 2px 15px rgba(0,0,0,0.05); }
 .btn { transition: all 0.3s ease-in-out; }
+.btn-certo-yellow:hover { background-color: #e5ac39 !important; transform: translateY(-2px); }
