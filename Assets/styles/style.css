@@ -24,3 +24,4 @@
 .info-card-story, .info-card-help { min-height: 350px; display: flex; flex-direction: column; justify-content: center; }
 .custom-footer { background-color: var(--certo-dark); padding: 60px 0; }
 .navbar { box-shadow: 0 2px 15px rgba(0,0,0,0.05); }
+.btn { transition: all 0.3s ease-in-out; }
