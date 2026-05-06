@@ -16,3 +16,6 @@
     cursor: pointer;
     transition: transform 0.2s ease;
 }
+.fixed-btn-img:hover {
+    transform: scale(1.05);
+}
