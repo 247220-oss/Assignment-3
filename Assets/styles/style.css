@@ -7,3 +7,7 @@
     margin: 0;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+.fixed-logo {
+    height: 35px;
+    width: auto;
+}
