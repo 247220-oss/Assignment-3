@@ -11,3 +11,8 @@
     height: 35px;
     width: auto;
 }
+.fixed-btn-img {
+    height: 40px;
+    cursor: pointer;
+    transition: transform 0.2s ease;
+}
