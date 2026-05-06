@@ -20,3 +20,4 @@
     transform: scale(1.05);
 }
 .spyware-full-blue { background-color: #f3f7ff; padding: 80px 0; }
+.info-card-story { background-color: var(--certo-yellow); }
