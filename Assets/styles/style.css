@@ -21,3 +21,4 @@
 }
 .spyware-full-blue { background-color: #f3f7ff; padding: 80px 0; }
 .info-card-story { background-color: var(--certo-yellow); }
+.info-card-story, .info-card-help { min-height: 350px; display: flex; flex-direction: column; justify-content: center; }
